@@ -18,20 +18,9 @@ O processo de desenvolvimento já se iniciou e o analista de sistema já modelou
     - Para calcular a locação deve-se calcular a quantidad de dias locados * valor por km. Além disso se o carro ficou alugado por mais de 10 dias, deve-se dar desconto de 10% e se ficou mais de 20 dias deve-se dar um desconto de 20%. O valor final deve ser armazenado no atributo valorTotalAluguel
 - O método mostrarResumoLocacao deve mostrar as informacoes de cliente, carro, e do aluguel através do JOptionPane, no final ficará assim:
 
-Resumo Aluguel<br/>
-Cliente<br/>
-Nome: Rogério<br/>
-CPF: 123.123.123-11<br/>
-Telefone: (11)1111-11111<br/>
-Carro<br/>
-Modelo: HB20<br/>
-Marca: Hyundai<br/>
-Valor por Km: 5.0<br/>
-Aluguel<br/>
-Quantidade de dias: 1<br/>
-Km Inicial: 100<br/>
-Km Final: 200<br/>
-Valor Total: R$500,00<br/>
+<p align="center">
+  <img src="https://github.com/Adriano1976/Car-Alocation-System-Java/assets/17755195/e77316d1-feee-4fb4-97d9-7eb295444139" alt="Imagem">
+</p>
 
 ## Explicação da Classe Cliente
 
